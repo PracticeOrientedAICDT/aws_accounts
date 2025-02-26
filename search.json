@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AWS Accounts Guidelines",
+    "section": "",
+    "text": "Congratulations on receiving your AWS Student Account! Please review the following guidelines to ensure appropriate and responsible use:    Budget Limit  Each account is provisioned with a $100 budget for academic projects. If you believe your work will exceed this budget, please discuss it with your supervisor before incurring any additional costs. Your supervisor will contact Tech-Hub to get this limit raised. \nResponsible Usage  Use these resources strictly for authorised academic purposes. Any misuse—such as prohibited content, unlawful activities, or activities in breach of University policies—may result in immediate suspension or further disciplinary action. \nMonitoring  Account usage and spending may be monitored. If your usage approaches the $100 limit, consider scaling down non-essential services or terminating unused resources. \nSupport and Queries  If you have any questions about the services, or need help with budget management, contact your supervisor or Tech-Hub.  If you anticipate needing additional budget or special resources (e.g., GPU instances for machine learning), consult your supervisor first. \nNo Personal Gain  Only use the AWS account for University-related work, such as coursework, academic projects, or research. Commercial or private ventures are strictly prohibited. \nData Security  Never store sensitive or confidential data (e.g., personal information, financial records, or licensed datasets) on AWS without proper authorisation.  Follow any University data protection requirements (including GDPR regulations, if applicable) when uploading, sharing, or transferring data. \nAccess Management  Keep your login credentials secure; do not share your AWS credentials with anyone, including peers or collaborators.  Use the principle of least privilege when assigning permissions to services or users—grant only those permissions necessary to complete your task. \nHousekeeping  Regularly check and terminate any unused services or instances to avoid unnecessary costs.  Use AWS cost monitoring features and alerts to stay informed about your spending and resource usage.  Backup and Version Control  Implement regular backups for critical data and source code, particularly for work that cannot be easily reproduced.  Utilise version control (e.g., GitLab) for your projects where possible, ensuring you maintain local copies or separate repositories to prevent data loss. \nAccount Lifecycle  Please notify Tech-Hub when you are finished with your account and no longer need it so that we can shut it down and not incur additional costs."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
