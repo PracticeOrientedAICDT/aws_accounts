@@ -1,0 +1,25 @@
+---
+title: "Tutorials"
+---
+
+## Cloud Essentials 
+
+This fundamental AWS Cloud course provides a comprehensive introduction to AWS services, architecture, security, pricing, and best practices. Designed for individuals across various non-technical roles, such as sales, marketing, legal, and business analysis, the course builds foundational AWS knowledge and helps prepare learners for the AWS Certified Cloud Practitioner exam. Participants will explore key AWS concepts, including cloud computing models, core AWS services like compute, storage, and databases, security best practices, and cost management strategies. The course also covers migration frameworks, monitoring tools, and the AWS Well-Architected Framework, ensuring a holistic understanding of AWS operations.
+
+Delivered through video presentations, demonstrations, and knowledge checks, the course spans 7 hours and requires general IT business and technical knowledge. The curriculum is structured into modules covering topics such as networking, analytics, security, and pricing, culminating in a final assessment to reinforce learning. By the end of the course, learners will be equipped to articulate AWS benefits, navigate AWS infrastructure, identify cost-effective solutions, and leverage AWS services for various use cases, making it an ideal starting point for professionals entering the cloud domain.
+
+[Here](https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials)
+
+## AI Essentials
+
+This introductory AWS Cloud course provides a foundational understanding of AWS services, architecture, security, pricing, and cloud concepts for individuals in non-technical roles. It is designed for professionals in sales, marketing, legal, business analysis, and project management who want to develop AWS Cloud knowledge and prepare for the AWS Certified Cloud Practitioner exam. The course covers key topics such as compute, storage, networking, security, and pricing models while introducing AWS migration strategies and best practices for cloud adoption.
+
+Structured into multiple modules, the course includes video presentations, demonstrations, and knowledge checks over a 7-hour duration. Participants will learn about AWS global infrastructure, core services, security frameworks, cost management tools, and monitoring solutions like CloudWatch and CloudTrail. By the end of the course, learners will be able to identify AWS solutions for various business scenarios, understand cloud financial benefits, and navigate AWS certification pathways.
+
+[Here](https://skillbuilder.aws/exam-prep/ai-practitioner?p=cert&c=ai&z=3)
+
+## AWS Docs 
+
+Full AWS documentation.
+
+[Here](https://docs.aws.amazon.com/)
